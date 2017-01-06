@@ -16,7 +16,7 @@
 title: Japan NiFi User Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Apache NiFiは、米国家安全保障局（NSA）のプロジェクトから生まれたデータフロー自動化ソフトウェアです。
+    Apache NiFiは、米国家安全保障局（NSA）のプロジェクトから生まれたデータフロー自動化ソフトウェアです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: futureofdatajp
