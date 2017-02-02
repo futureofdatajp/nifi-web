@@ -24,9 +24,8 @@ github_username: futureofdatajp
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 # theme: jekyll-theme-hacker
-theme: merlot
 # theme: jekyll-swiss
 
 gems:
