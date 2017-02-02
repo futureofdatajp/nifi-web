@@ -24,7 +24,7 @@ github_username: kkitase
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
