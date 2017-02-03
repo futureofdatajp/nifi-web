@@ -3,11 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Japan Apache NiFi User Groupは、日本語によるNiFiに関する情報発信、情報共有を行い、NiFiの普及および人材育成に貢献します。
+[Facebook](https://www.facebook.com/groups/futureofdatajp) | [Twitter](https://twitter.com/futureofdatajp) | [YouTube](https://www.youtube.com/channel/UCONEEY4zevUmPC4TLT1Vbxg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## 本家サイト
+https://nifi.apache.org/
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+## 本家メーリングリスト
+https://nifi.apache.org/mailing_lists.html
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+## ダウンロード
+https://nifi.apache.org/download.html
