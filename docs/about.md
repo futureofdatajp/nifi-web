@@ -7,7 +7,6 @@ Japan Apache NiFi User Groupは、日本語によるNiFiに関する情報発信
 
 - [Facebook](https://www.facebook.com/groups/apachenifijp)
 - [Twitter](https://twitter.com/apachenifijp)
-- [YouTube](https://www.youtube.com/channel/UCONEEY4zevUmPC4TLT1Vbxg)
 
 ### 本家サイト
 [https://nifi.apache.org/](https://nifi.apache.org/)
